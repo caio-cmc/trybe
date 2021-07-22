@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(255, 174, 0);
+    font-size: 65px; 
+    font-family: sans-serif;
+   }
+   .teste{
+     background-color: thistle;
+   }
+   p {
+     font-weight: 600;
+     font-size: 3em;
+   }
+   body {
+     font-size: 16px;
+     text-align: center;
+     font-style: oblique;
+     text-decoration: white;
+   }
+   #ap {
+     background-color: teal;
+   }
+   #ga {
+     background-color: red;
+   }
