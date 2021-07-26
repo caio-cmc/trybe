@@ -1,0 +1,8 @@
+ol li {
+    background-color: yellow;
+    if (list % 2) {
+        color: green;
+    } else {
+        text-transform: capitalize;
+    }
+}
